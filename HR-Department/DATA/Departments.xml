@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <department name ="Комп'ютерний віділ"/>
+  <department name ="Маркетинговий віділ"/>
+  <department name ="Фінансовий віділ"/>
+  <department name ="Юридичний віділ"/>
+  <department name ="Транспортний віділ"/>
+  <department name ="Віділ охорони"/>
+</root>

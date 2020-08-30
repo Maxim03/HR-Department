@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <employee name ="Пупкін Василій" birht="1990-10-15" email ="vasya@ukr.net" phone="111-11-11" spec="програміст" pos="middle" salary="1000" expir="2 роки" dep="Комп'ютерний віділ" photo="emp1.jpg"/>
+  <employee name ="Андрієв андрій" birht="" email ="" phone="" spec="" pos="" salary="" expir="" dep="Комп'ютерний віділ" photo="emp2.jpg"/>
+  <employee name ="Сергєв Сергій" birht="" email ="" phone="" spec="" pos="" salary="" expir="" dep="Комп'ютерний віділ" photo="emp3.jpg"/>
+  <employee name ="Дорожна Віта" birht="" email ="" phone="" spec="" pos="" salary="" expir="" dep="Маркетинговий віділ" photo="emp4.jpg"/>
+  <employee name ="Федоровна Оля" birht="" email ="" phone="" spec="" pos="" salary="" expir="" dep="Маркетинговий віділ" photo="emp5.jpg"/>
+  <employee name ="Афанасіва Даля" birht="" email ="" phone="" spec="" pos="" salary="" expir="" dep="Маркетинговий віділ" photo="emp6.jpg"/>
+  <employee name ="$1" birht="" email ="" phone="" spec="" pos="" salary="" expir="" dep="Фінансовий віділ" photo="emp7.jpg"/>
+  <employee name ="$2" birht="" email ="" phone="" spec="" pos="" salary="" expir="" dep="Фінансовий віділ" photo="emp8.jpg"/>
+  <employee name ="$3" birht="" email ="" phone="" spec="" pos="" salary="" expir="" dep="Фінансовий віділ" photo="emp9.jpg"/>
+
+  
+</root>
